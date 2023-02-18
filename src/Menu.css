@@ -1,0 +1,10 @@
+.menu img {
+    object-fit: cover;
+    object-position: center center;
+}
+
+@media (max-width: 768px) {
+    .menu img {
+        height: 300px;
+    }
+}

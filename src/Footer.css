@@ -1,0 +1,69 @@
+.FooterCss {
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+
+.iconoscontainer {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 5%;
+}
+
+.iconos {
+    background-size: cover;
+    height: 2em;
+    width: 2em;
+    opacity: 0.7;
+    margin: 1em;
+}
+
+.facebook {
+    background-image: url("./face.png");
+}
+
+.instagram {
+    background-image: url("./insta.png");
+}
+
+.whatsapp {
+    background-image: url("./what.png");
+}
+
+.tiktok{
+    background-image: url("./tik.png");
+}
+
+.footercontainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    text-align: center;
+    color: var(--lightgreen);
+    opacity: 0.8;
+    margin: 1rem 10% 2% 10%;
+}
+
+@media (max-width:768px) {
+    .iconos {
+        height: 1.2em;
+        width: 1.2em;
+    }
+
+    .footercontainer {
+        height: 260px;
+        flex-direction: column;
+        font-size: .6em;
+        flex-wrap: wrap;
+        text-align: left;
+        justify-content: left;
+    }
+
+    .footercontainer h4 {
+        font-size: 1rem
+    }
+
+    .footercontainer div {
+        margin: .7rem;
+    }
+}

@@ -1,0 +1,54 @@
+.SobreNosotros .card-img-overlay {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.SobreNosotros img {
+    filter: brightness(60%);
+}
+
+.sobreContainer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 60%;
+    font-size: .75em;
+    margin: 20px;
+    padding: 20px;
+    text-align:center;
+    font-family: impact;
+    text-shadow: -2px -2px 1px #731818, 2px 2px 1px #501717, -2px 2px 1px #581616, 2px -2px 1px #6f1818;
+}
+
+@media (min-width:768px) {
+    .SobreNosotros{
+        width: 80%;
+        margin: auto;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .SobreNosotros.card-img-overlay {
+        padding: 2.5em;
+    }
+
+    .SobreNosotros.card-title {
+        font-size: 2em;
+    }
+
+    .SobreNosotros.card-text {
+        font-size: 1.5em;
+    }
+
+    .SobreNosotros.card-info {
+        font-size: 2em;
+    }
+
+    .sobreContainer {
+        width: 70%;
+        font-size: 1em;
+    }
+}
