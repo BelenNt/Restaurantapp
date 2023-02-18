@@ -12,7 +12,6 @@ const initialForm = {
 }
 
 const Crud = () => {
-  const [cliente, setCliente] = useState([])
   const [form, setForm] = useState(initialForm)
 
   const getClientes = async () => {
