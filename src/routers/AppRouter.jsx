@@ -1,18 +1,18 @@
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Routes, Route, BrowserRouter } from "react-router-dom";
 import CrudPages from '../pages/CrudPages';
 import HomePages from '../pages/HomePages'
 import NuestroMenu from '../pages/NuestroMenu'
 
 const AppRouter = () => {
     return (
-        <Router>
+        <BrowserRouter>
             <Routes>
                 <Route path="/" element={<HomePages />} />
                 <Route path="/nuestromenu" element={<NuestroMenu />} />
                 <Route path="/crud" element={<CrudPages/>} />
             </Routes>
-        </Router>
+        </BrowserRouter>
 
     )
 }
