@@ -7,7 +7,7 @@ import NuestroMenuPages from '../pages/NuestroMenuPages';
 
 const AppRouter = () => {
     return (
-        <Router>
+        <Router basename='/restaurantapp'>
             <Routes>
                 <Route path="/" element={<HomePages />} />
                 <Route path="/sobrenosotros" element={<SobrenosotrosPages/>} />
@@ -16,6 +16,7 @@ const AppRouter = () => {
                 <Route path="*" element={<h1>Error 404</h1>}/> 
             </Routes>
         </Router>
+
     )
 }
 
