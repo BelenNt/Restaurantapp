@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/restaurantapp/static/css/main.3f23d81f.css",
-    "main.js": "/restaurantapp/static/js/main.fef5abcb.js",
-    "static/media/parrilladas.jpg": "/restaurantapp/static/media/parrilladas.093009d1fa7e2877d6f4.jpg",
-    "static/media/intro.jpg": "/restaurantapp/static/media/intro.bd09aa65e9817de5275f.jpg",
-    "static/media/chuletas.jpg": "/restaurantapp/static/media/chuletas.106d4099d8f8abeca0dc.jpg",
-    "static/media/bebidas.jpg": "/restaurantapp/static/media/bebidas.d9987a2fe647552fcc23.jpg",
-    "static/media/truchas.jpg": "/restaurantapp/static/media/truchas.e31b4c3c50015130c41b.jpg",
-    "static/media/franciscolor.png": "/restaurantapp/static/media/franciscolor.40816dbdfe104326af4a.png",
-    "static/media/what.png": "/restaurantapp/static/media/what.273db1685470ebd307ea.png",
-    "static/media/insta.png": "/restaurantapp/static/media/insta.ba7085b56f8c4c0fee71.png",
-    "static/media/tik.png": "/restaurantapp/static/media/tik.eb3d45dae5fd8df29809.png",
-    "index.html": "/restaurantapp/index.html",
-    "main.3f23d81f.css.map": "/restaurantapp/static/css/main.3f23d81f.css.map",
-    "main.fef5abcb.js.map": "/restaurantapp/static/js/main.fef5abcb.js.map"
+    "main.css": "/BelenNt/restaurantapp/static/css/main.d433336f.css",
+    "main.js": "/BelenNt/restaurantapp/static/js/main.fe8668eb.js",
+    "static/media/parrilladas.jpg": "/BelenNt/restaurantapp/static/media/parrilladas.093009d1fa7e2877d6f4.jpg",
+    "static/media/intro.jpg": "/BelenNt/restaurantapp/static/media/intro.bd09aa65e9817de5275f.jpg",
+    "static/media/chuletas.jpg": "/BelenNt/restaurantapp/static/media/chuletas.106d4099d8f8abeca0dc.jpg",
+    "static/media/bebidas.jpg": "/BelenNt/restaurantapp/static/media/bebidas.d9987a2fe647552fcc23.jpg",
+    "static/media/truchas.jpg": "/BelenNt/restaurantapp/static/media/truchas.e31b4c3c50015130c41b.jpg",
+    "static/media/franciscolor.png": "/BelenNt/restaurantapp/static/media/franciscolor.40816dbdfe104326af4a.png",
+    "static/media/what.png": "/BelenNt/restaurantapp/static/media/what.273db1685470ebd307ea.png",
+    "static/media/insta.png": "/BelenNt/restaurantapp/static/media/insta.ba7085b56f8c4c0fee71.png",
+    "static/media/tik.png": "/BelenNt/restaurantapp/static/media/tik.eb3d45dae5fd8df29809.png",
+    "index.html": "/BelenNt/restaurantapp/index.html",
+    "main.d433336f.css.map": "/BelenNt/restaurantapp/static/css/main.d433336f.css.map",
+    "main.fe8668eb.js.map": "/BelenNt/restaurantapp/static/js/main.fe8668eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f23d81f.css",
-    "static/js/main.fef5abcb.js"
+    "static/css/main.d433336f.css",
+    "static/js/main.fe8668eb.js"
   ]
 }
