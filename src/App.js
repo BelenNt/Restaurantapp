@@ -1,5 +1,5 @@
 import React from 'react'
-import AppRouter from './routers/AppRouter'
+import AppRouter from './routes/AppRouter'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 

@@ -5,11 +5,9 @@ import parrilladas from "../parrilladas.jpg";
 import chuletas from "../chuletas.jpg";
 import truchas from "../truchas.jpg";
 import bebidas from "../bebidas.jpg";
-import Navbar from '../components/Navbar';
 
 const NuestroMenu = () => {
     return (<>
-    <Navbar/>
       <div id="menuExampleCaptions" className="menu slide" data-bs-ride="menu">
         <div className="menu-indicators">
                 <button type="button" data-bs-target="#menuExampleCaptions" data-bs-slide-to={0} className="active" aria-current="true" aria-label="Slide 1" />

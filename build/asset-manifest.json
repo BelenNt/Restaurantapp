@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurantapp/static/css/main.3f23d81f.css",
-    "main.js": "/restaurantapp/static/js/main.41591d48.js",
+    "main.js": "/restaurantapp/static/js/main.7edbae14.js",
     "static/media/parrilladas.jpg": "/restaurantapp/static/media/parrilladas.093009d1fa7e2877d6f4.jpg",
     "static/media/intro.jpg": "/restaurantapp/static/media/intro.bd09aa65e9817de5275f.jpg",
     "static/media/chuletas.jpg": "/restaurantapp/static/media/chuletas.106d4099d8f8abeca0dc.jpg",
@@ -13,10 +13,10 @@
     "static/media/tik.png": "/restaurantapp/static/media/tik.eb3d45dae5fd8df29809.png",
     "index.html": "/restaurantapp/index.html",
     "main.3f23d81f.css.map": "/restaurantapp/static/css/main.3f23d81f.css.map",
-    "main.41591d48.js.map": "/restaurantapp/static/js/main.41591d48.js.map"
+    "main.7edbae14.js.map": "/restaurantapp/static/js/main.7edbae14.js.map"
   },
   "entrypoints": [
     "static/css/main.3f23d81f.css",
-    "static/js/main.41591d48.js"
+    "static/js/main.7edbae14.js"
   ]
 }
