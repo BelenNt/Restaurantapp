@@ -7,8 +7,8 @@ const HomePages = () => {
   return (
     <>
     <Navbar/>
-    <div className='d-flex'>
-                    <img src={intro} alt="Intro" width={1300} height={1000} className="d-inline-block align-text-top" />
+    <div>
+                    <img src={intro} alt="Intro" className="card-img"/>
                 </div>
     <Footer/>
     </>
