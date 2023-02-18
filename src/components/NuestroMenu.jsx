@@ -17,11 +17,6 @@ const NuestroMenu = () => {
                 <button type="button" data-bs-target="#menuExampleCaptions" data-bs-slide-to={4} aria-label="Slide 5" />
             </div>
           <div className="menu-inner">
-              <div className="menu-item active" data-bs-interval="5000">
-                  <img src={intro} className="d-block w-100" alt="..." />
-                  <div className="menu-caption d-none d-md-block">
-                  </div>
-              </div>
               <div className="menu-item" data-bs-interval="5000">
                   <img src={parrilladas} className="d-block w-100" alt="..." />
               </div>
