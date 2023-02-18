@@ -13,7 +13,6 @@ const AppRouter = () => {
                 <Route path="/sobrenosotros" element={<SobrenosotrosPages/>} />
                 <Route path="/crud" element={<CrudPages/>} /> 
                 <Route path='/nuestromenu'element ={<NuestroMenuPages/>} />
-                <Route path="*" element={<h1>Error 404</h1>}/> 
             </Routes>
         </Router>
 
